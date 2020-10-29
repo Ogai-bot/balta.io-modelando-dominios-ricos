@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sFw2zIKfui9DjQ3CuhlKvW7+dInFCJpAJYEgewgXIifDuR96yxsE5Ud99o4pyBYGn0g0OWMohc224wl6bhCquQ==",
+  "dgSpecHash": "0CIDRb8KTISHHyD4sVJ3bw0gFTO7Ap1snwDLCHKuCKEQ9UeYAofcn9LM6OQrsD2qPkCvAj30w689i3+kygGDTQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Tests\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "projectFilePath": "C:\\Desenvolvimento\\Test\\balta.io-modelando-dominios-ricos\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
